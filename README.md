@@ -1,3 +1,3 @@
-# This Repository contains dashboard for created in Power BI 
+# This Repository contains screenshots of interactive dashboards created in Power BI 
 
 
